@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: gabrielsouza.ccampos@gmail.com
+- Portfólio: https://dev-gabrielcampos.netlify.app/
 
 <div>
   <a href="https://github.com/gabrielCampos99">
