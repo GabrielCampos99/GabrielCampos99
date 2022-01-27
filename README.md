@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel Campos, Front-End student!
+### Hi, I'm Gabriel Campos, Front-End developer!
 
 - 🌱 I’m currently learning React.js, Node.js and MongoDB
 - 📫 How to reach me: gabrielsouza.ccampos@gmail.com
