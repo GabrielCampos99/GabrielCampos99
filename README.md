@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Campos, Front-End developer!
 
-- 🌱 I’m currently learning React.js, Node.js and Postgres
+- 🌱 I’m currently learning React.js, Node.js and PostgreSQL
 - 📫 How to reach me: gabrielsouza.ccampos@gmail.com
 - Portfólio: https://dev-gabrielcampos.netlify.app/
 
